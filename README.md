@@ -28,6 +28,6 @@
 
 <h3 align="center">Github stats:</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=josecantero&show_icons=true&locale=en" alt="josecantero" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josecantero&show_icons=true&locale=en&layout=compact" alt="josecantero" /> </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josecantero&" alt="josecantero" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=josecantero&show_icons=true&locale=en" alt="josecantero" />  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josecantero&" alt="josecantero" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josecantero&show_icons=true&locale=en&layout=compact" alt="josecantero" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josecantero" alt="josecantero" /></a> </p>
